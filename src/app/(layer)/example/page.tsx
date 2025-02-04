@@ -1,3 +1,3 @@
-import ExamplePage from "@/modules/example/pages/ChallengeRoomPage";
+import ExamplePage from "@/modules/example/pages/ExamplePage";
 
 export default ExamplePage;

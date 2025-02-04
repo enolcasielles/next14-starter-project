@@ -1,6 +1,6 @@
 "use client";
 
-import { useExample } from "../contexts/ChallengeRoomContext";
+import { useExample } from "../contexts/ExampleContext";
 
 interface Props {}
 

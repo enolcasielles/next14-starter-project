@@ -1,7 +1,7 @@
 import Error500 from "@/core/components/errors/error500";
 import { exampleAction } from "../actions/example.action";
-import ExampleProvider from "../contexts/ChallengeRoomContext";
-import ExampleComponent from "../components/ChallengeRoomDescription";
+import ExampleProvider from "../contexts/ExampleContext";
+import ExampleComponent from "../components/ExampleComponent";
 
 export interface ExampleProps {
   params: {
